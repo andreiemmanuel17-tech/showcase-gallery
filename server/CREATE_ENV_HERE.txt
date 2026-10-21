@@ -1,0 +1,5 @@
+For Activity 2 testing, create a file named .env in this server folder and add:
+
+MONGO_URI=your_real_mongodb_atlas_connection_string
+
+Do not share or upload your real .env file.
